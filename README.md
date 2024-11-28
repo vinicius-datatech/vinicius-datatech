@@ -1,4 +1,4 @@
-# Vinny Moraes Data Analysis 👨‍💻📊
+# Vinícius Moraes Data Analysis 👨‍💻📊
 
 I am a professional passionate about technology. I make my work my hobby and innovation opportunities my inspiration. I seek new professional challenges, developing my skills and specializing in the area of ​​Information Technology. 
 
