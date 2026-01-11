@@ -11,7 +11,7 @@ I map processes and perform data modeling according to business rules. In additi
 👉<a href="https://www.linkedin.com/in/vinicius-araujo-moraes-ti/details/projects/">Click here</a> to view my Projects on LinkedIn!🎯
 
 ## My Repositories on ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-👉<a href="[https://github.com/VinnyMoraes-dev?tab=repositories](https://github.com/vinicius-datatech?tab=repositories)">Click here</a> to view my Projects in GitHub repositories!🎯
+👉<a href="https://github.com/vinicius-datatech?tab=repositories">Click here</a> to view my Projects in GitHub repositories!🎯
 
 ## Connect with Me! 😁
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/vinicius.datatech)
