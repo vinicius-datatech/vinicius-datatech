@@ -36,25 +36,25 @@ transformando dados em insights de sucesso nos projetos estratégicos.
 ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
  ## Formação Acadêmica 🎓👨🏻‍🎓
-• Pós em Ciências de Dados e Analytics
-Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) – cursando
-• MBA Gestão de Projetos e Metodologias Ágeis
-Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) – Setembro de 2025
-• Extensão Universitário Criação de Negócios para Universitários
-Endeavor Careers Pvt. Ltd. – Setembro de 2016
-• Graduação em Redes de Computadores
-Centro Universitário Carioca – Dezembro de 2020
-• Técnico de Informática
+• Pós em Ciências de Dados e Analytics<br>
+Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) – cursando<br>
+• MBA Gestão de Projetos e Metodologias Ágeis<br>
+Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) – Setembro de 2025<br>
+• Extensão Universitário Criação de Negócios para Universitários<br>
+Endeavor Careers Pvt. Ltd. – Setembro de 2016<br>
+• Graduação em Redes de Computadores<br>
+Centro Universitário Carioca – Dezembro de 2020<br>
+• Técnico de Informática<br>
 SENAC RJ – Abril de 2015
 
 ## Certificações 🏅
-• Scrum Foundation Professional Certificate
+• Scrum Foundation Professional Certificate<br>
 • Lean Six Sigma Yellow Belt
 
 ## Soft Skills 🌟
-• Comunicação assertiva
-• Organização e planejamento
-• Resolução de problemas
+• Comunicação assertiva<br>
+• Organização e planejamento<br>
+• Resolução de problemas<br>
 • Proatividade e trabalho em equipe
 
 
