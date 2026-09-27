@@ -1,7 +1,7 @@
 # Vinícius Moraes | Análise de Dados 👨‍💻📊
 
 ## Objetivo Profissional 🎯
-Atuar como Analista de Projetos e de Dados, contribuindo com a gestão, acompanhamento e
+Atuar como Analista de Dados ou Engenheiro de Dados, contribuindo com a gestão, acompanhamento e
 transformando dados em insights de sucesso nos projetos estratégicos. 
 
 ## Meus Repositórios em ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
