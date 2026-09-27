@@ -4,9 +4,6 @@
 Atuar como Analista de Projetos e de Dados, contribuindo com a gestão, acompanhamento e
 transformando dados em insights de sucesso nos projetos estratégicos. 
 
-## Meu Portfólio Power BI 📊📈
-👉<a href="https://www.behance.net/datatechai">Click here</a> to view my Projects on Behance!
-
 ## Meus Repositórios em ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 👉<a href="https://github.com/vinicius-datatech?tab=repositories">Click here</a> to view my Projects in GitHub repositories!
 
