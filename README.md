@@ -1,4 +1,4 @@
-# Vinícius Moraes | Análise de Dados | Engenharia de Dados   👨‍💻📊⚙️🛢️☁️
+# Vinícius Moraes | Análise de Dados | Engenharia de Dados 👨‍💻📊⚙️🛢️☁️
 
 ## Objetivo Profissional 🎯
 Atuar como Analista de Dados ou Engenheiro de Dados, contribuindo com a gestão, acompanhamento e
